@@ -1,1 +1,14 @@
-
+/* Clean small tweaks on top of Minima */
+.site-title { font-weight: 700; }
+.page-content { max-width: 980px; }
+.project-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 14px;
+  margin: 12px 0;
+}
+.project-meta { color: #6b7280; font-size: 0.95rem; }
+.tag {
+  display:inline-block; padding:2px 10px; border:1px solid #e5e7eb;
+  border-radius:999px; margin:4px 6px 0 0; font-size:0.85rem;
+}
