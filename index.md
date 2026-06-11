@@ -13,7 +13,7 @@ I build ticket-style troubleshooting writeups and labs that mirror real Tier 2 w
 - GitHub: https://github.com/Rjsanchez0  
 - LinkedIn: https://www.linkedin.com/in/rj-sanchez-01135b1a8  
 - Email: rjsanchez062006@gmail.com  
-
+- Resume (PDF): /RJ-Sanchez-Resume.pdf
 ---
 
 ## Featured Projects
