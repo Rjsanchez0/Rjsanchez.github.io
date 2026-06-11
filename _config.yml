@@ -1,0 +1,35 @@
+title: "Raul (RJ) Sanchez"
+description: "Tier 2 / Desktop Support portfolio + projects and blog."
+url: "https://rjsanchez0.github.io"
+theme: minima
+
+# Show excerpts on blog listing
+show_excerpts: true
+
+# Your social links (minima theme uses these)
+email: rjsanchez062006@gmail.com
+linkedin_username: rj-sanchez-01135b1a8
+github_username: Rjsanchez0
+
+# Projects collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+header_pages:
+  - projects.md
+  - blog.md
+  - about.md
